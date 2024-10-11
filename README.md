@@ -1,3 +1,3 @@
 # git-test
 
-test of git
+tracked not staged
